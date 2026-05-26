@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export default function App() {
   const projects = [
     {
-      title: "Portfolio Website",
+      title: "Little Blossoms Preschool",
       desc: "Modern responsive portfolio website.",
       link: "https://shubham.mybroo.pro/",
     },
@@ -12,14 +12,20 @@ export default function App() {
       desc: "Professional frontend website platform.",
       link: "https://mybroo.pro/",
     },
-    {
-      title: "Little Blossoms Preschool",
-      desc: "Responsive preschool website UI.",
-      link: "https://shubham7922305-cyber.github.io/Little-Blossoms-Preschool/",
-    },
+   
     {
       title: "RP Tech Latest Posts",
       desc: "Dynamic production posts platform.",
+      link: "https://hplatestposts.rptechweb.in/",
+    },
+     {
+      title: "multi tasking website",
+      desc: "Responsive preschool website UI.",
+      link: "https://shubham7922305-cyber.github.io/Little-Blossoms-Preschool/",
+    },
+     {
+      title: "AI News Website",
+      desc: "Latest news, trending stories, and real-time updates.",
       link: "https://hplatestposts.rptechweb.in/",
     },
   ];
@@ -121,8 +127,6 @@ export default function App() {
                 "HTML",
                 "CSS",
                 "JavaScript",
-                "React",
-                "Tailwind CSS",
                 "Responsive UI",
                 "WordPress",
                 "Elementor",
